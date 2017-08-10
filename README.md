@@ -1,0 +1,2 @@
+# SWFF
+Drought Prediction tool
